@@ -1,0 +1,721 @@
+prompt
+"
+    You are a powerful language model tasked with generating realistic emails for various categories. The emails will be used to simulate common inquiries received by a university Head of Department (HOD). These emails fall into three classes: ""Student Inquiry,"" ""Academic Collaboration Inquiry,"" and ""Corporate Inquiry."" You need to generate emails for the class ""Student Inquiry"" in the category ""Request for Course Syllabus"".
+    
+    For this class and category, generate 10 emails. Each email must have a:
+    1. Sender Email Address: A realistic email address matching the type of inquiry (e.g., a student for student inquiries, a researcher for academic collaboration, or a corporate entity for corporate inquiries).
+    2. Subject Line: A brief subject line that clearly reflects the email's purpose.
+    3. Email Body: A 2-3 paragraph email body that sounds natural and relates to the category.
+
+    Here's an example email structure for the category ""Request for Course Syllabus"":
+    
+    Sender: student123@university.edu
+    Subject: Request for Syllabus for 'Introduction to AI'
+    
+    Dear Professor,
+
+    I would like to request the syllabus for the course 'Introduction to AI'. Could you please share the weekly topics, reading materials, and assignment deadlines?
+
+    Best regards,
+    [Student's Name]
+    
+    Make sure the emails you generate are realistic, follow the example structure, and provide proper details based on the category. The output should be formatted in CSV with the following columns: sender, subject, body, class.
+    
+    Generate at least 30 emails for this category.
+    "
+"
+    You are a powerful language model tasked with generating realistic emails for various categories. The emails will be used to simulate common inquiries received by a university Head of Department (HOD). These emails fall into three classes: ""Student Inquiry,"" ""Academic Collaboration Inquiry,"" and ""Corporate Inquiry."" You need to generate emails for the class ""Student Inquiry"" in the category ""Query on Assignment Deadlines"".
+    
+    For this class and category, generate 10 emails. Each email must have a:
+    1. Sender Email Address: A realistic email address matching the type of inquiry (e.g., a student for student inquiries, a researcher for academic collaboration, or a corporate entity for corporate inquiries).
+    2. Subject Line: A brief subject line that clearly reflects the email's purpose.
+    3. Email Body: A 2-3 paragraph email body that sounds natural and relates to the category.
+
+    Here's an example email structure for the category ""Query on Assignment Deadlines"":
+    
+    Sender: student123@university.edu
+    Subject: When is the Neural Networks Assignment Due?
+    
+    Dear Professor,
+
+    Could you please let me know the due date for the assignment on Neural Networks in 'Advanced Machine Learning'?
+
+    Best regards,
+    [Student's Name]
+    
+    Make sure the emails you generate are realistic, follow the example structure, and provide proper details based on the category. The output should be formatted in CSV with the following columns: sender, subject, body, class.
+    
+    Generate at least 30 emails for this category.
+    "
+"
+    You are a powerful language model tasked with generating realistic emails for various categories. The emails will be used to simulate common inquiries received by a university Head of Department (HOD). These emails fall into three classes: ""Student Inquiry,"" ""Academic Collaboration Inquiry,"" and ""Corporate Inquiry."" You need to generate emails for the class ""Student Inquiry"" in the category ""Inquiry on Exam Schedule and Format"".
+    
+    For this class and category, generate 10 emails. Each email must have a:
+    1. Sender Email Address: A realistic email address matching the type of inquiry (e.g., a student for student inquiries, a researcher for academic collaboration, or a corporate entity for corporate inquiries).
+    2. Subject Line: A brief subject line that clearly reflects the email's purpose.
+    3. Email Body: A 2-3 paragraph email body that sounds natural and relates to the category.
+
+    Here's an example email structure for the category ""Inquiry on Exam Schedule and Format"":
+    
+    Sender: student123@university.edu
+    Subject: When is the Midterm Exam for 'NLP'?
+    
+    Dear Professor,
+
+    When is the midterm exam for 'Natural Language Processing'? Could you also provide details on the format?
+
+    Best regards,
+    [Student's Name]
+    
+    Make sure the emails you generate are realistic, follow the example structure, and provide proper details based on the category. The output should be formatted in CSV with the following columns: sender, subject, body, class.
+    
+    Generate at least 30 emails for this category.
+    "
+"
+    You are a powerful language model tasked with generating realistic emails for various categories. The emails will be used to simulate common inquiries received by a university Head of Department (HOD). These emails fall into three classes: ""Student Inquiry,"" ""Academic Collaboration Inquiry,"" and ""Corporate Inquiry."" You need to generate emails for the class ""Student Inquiry"" in the category ""Request for Office Hours Information"".
+    
+    For this class and category, generate 10 emails. Each email must have a:
+    1. Sender Email Address: A realistic email address matching the type of inquiry (e.g., a student for student inquiries, a researcher for academic collaboration, or a corporate entity for corporate inquiries).
+    2. Subject Line: A brief subject line that clearly reflects the email's purpose.
+    3. Email Body: A 2-3 paragraph email body that sounds natural and relates to the category.
+
+    Here's an example email structure for the category ""Request for Office Hours Information"":
+    
+    Sender: student123@university.edu
+    Subject: What are the Office Hours for Prof. Jane Doe?
+    
+    Dear Professor,
+
+    Could you tell me when and where Professor Jane Doe holds office hours for 'Introduction to AI'?
+
+    Best regards,
+    [Student's Name]
+    
+    Make sure the emails you generate are realistic, follow the example structure, and provide proper details based on the category. The output should be formatted in CSV with the following columns: sender, subject, body, class.
+    
+    Generate at least 30 emails for this category.
+    "
+"
+    You are a powerful language model tasked with generating realistic emails for various categories. The emails will be used to simulate common inquiries received by a university Head of Department (HOD). These emails fall into three classes: ""Student Inquiry,"" ""Academic Collaboration Inquiry,"" and ""Corporate Inquiry."" You need to generate emails for the class ""Student Inquiry"" in the category ""Request for Tutoring Resources"".
+    
+    For this class and category, generate 10 emails. Each email must have a:
+    1. Sender Email Address: A realistic email address matching the type of inquiry (e.g., a student for student inquiries, a researcher for academic collaboration, or a corporate entity for corporate inquiries).
+    2. Subject Line: A brief subject line that clearly reflects the email's purpose.
+    3. Email Body: A 2-3 paragraph email body that sounds natural and relates to the category.
+
+    Here's an example email structure for the category ""Request for Tutoring Resources"":
+    
+    Sender: student123@university.edu
+    Subject: Are Tutoring Sessions Available for 'Advanced ML'?
+    
+    Dear Professor,
+
+    Are there any tutoring sessions available for 'Advanced Machine Learning'? I would like to attend.
+
+    Best regards,
+    [Student's Name]
+    
+    Make sure the emails you generate are realistic, follow the example structure, and provide proper details based on the category. The output should be formatted in CSV with the following columns: sender, subject, body, class.
+    
+    Generate at least 30 emails for this category.
+    "
+"
+    You are a powerful language model tasked with generating realistic emails for various categories. The emails will be used to simulate common inquiries received by a university Head of Department (HOD). These emails fall into three classes: ""Student Inquiry,"" ""Academic Collaboration Inquiry,"" and ""Corporate Inquiry."" You need to generate emails for the class ""Student Inquiry"" in the category ""Question on Lecture or Lab Schedule"".
+    
+    For this class and category, generate 10 emails. Each email must have a:
+    1. Sender Email Address: A realistic email address matching the type of inquiry (e.g., a student for student inquiries, a researcher for academic collaboration, or a corporate entity for corporate inquiries).
+    2. Subject Line: A brief subject line that clearly reflects the email's purpose.
+    3. Email Body: A 2-3 paragraph email body that sounds natural and relates to the category.
+
+    Here's an example email structure for the category ""Question on Lecture or Lab Schedule"":
+    
+    Sender: student123@university.edu
+    Subject: Has the Lab Session for 'Intro to AI' Been Rescheduled?
+    
+    Dear Professor,
+
+    Has the lab session for 'Introduction to AI' been rescheduled due to the holiday next week?
+
+    Best regards,
+    [Student's Name]
+    
+    Make sure the emails you generate are realistic, follow the example structure, and provide proper details based on the category. The output should be formatted in CSV with the following columns: sender, subject, body, class.
+    
+    Generate at least 30 emails for this category.
+    "
+"
+    You are a powerful language model tasked with generating realistic emails for various categories. The emails will be used to simulate common inquiries received by a university Head of Department (HOD). These emails fall into three classes: ""Student Inquiry,"" ""Academic Collaboration Inquiry,"" and ""Corporate Inquiry."" You need to generate emails for the class ""Student Inquiry"" in the category ""Appeal for Grade Review"".
+    
+    For this class and category, generate 10 emails. Each email must have a:
+    1. Sender Email Address: A realistic email address matching the type of inquiry (e.g., a student for student inquiries, a researcher for academic collaboration, or a corporate entity for corporate inquiries).
+    2. Subject Line: A brief subject line that clearly reflects the email's purpose.
+    3. Email Body: A 2-3 paragraph email body that sounds natural and relates to the category.
+
+    Here's an example email structure for the category ""Appeal for Grade Review"":
+    
+    Sender: student123@university.edu
+    Subject: How Can I Appeal My Grade for 'NLP'?
+    
+    Dear Professor,
+
+    How can I appeal my grade for the final exam in 'Natural Language Processing'?
+
+    Best regards,
+    [Student's Name]
+    
+    Make sure the emails you generate are realistic, follow the example structure, and provide proper details based on the category. The output should be formatted in CSV with the following columns: sender, subject, body, class.
+    
+    Generate at least 30 emails for this category.
+    "
+"
+    You are a powerful language model tasked with generating realistic emails for various categories. The emails will be used to simulate common inquiries received by a university Head of Department (HOD). These emails fall into three classes: ""Student Inquiry,"" ""Academic Collaboration Inquiry,"" and ""Corporate Inquiry."" You need to generate emails for the class ""Student Inquiry"" in the category ""Inquiry on Graduation Requirements"".
+    
+    For this class and category, generate 10 emails. Each email must have a:
+    1. Sender Email Address: A realistic email address matching the type of inquiry (e.g., a student for student inquiries, a researcher for academic collaboration, or a corporate entity for corporate inquiries).
+    2. Subject Line: A brief subject line that clearly reflects the email's purpose.
+    3. Email Body: A 2-3 paragraph email body that sounds natural and relates to the category.
+
+    Here's an example email structure for the category ""Inquiry on Graduation Requirements"":
+    
+    Sender: student123@university.edu
+    Subject: How Many Credits are Needed for Graduation?
+    
+    Dear Professor,
+
+    How many credits do I need to graduate with a major in Computer Science?
+
+    Best regards,
+    [Student's Name]
+    
+    Make sure the emails you generate are realistic, follow the example structure, and provide proper details based on the category. The output should be formatted in CSV with the following columns: sender, subject, body, class.
+    
+    Generate at least 30 emails for this category.
+    "
+"
+    You are a powerful language model tasked with generating realistic emails for various categories. The emails will be used to simulate common inquiries received by a university Head of Department (HOD). These emails fall into three classes: ""Student Inquiry,"" ""Academic Collaboration Inquiry,"" and ""Corporate Inquiry."" You need to generate emails for the class ""Student Inquiry"" in the category ""Request for Research Project Collaboration"".
+    
+    For this class and category, generate 10 emails. Each email must have a:
+    1. Sender Email Address: A realistic email address matching the type of inquiry (e.g., a student for student inquiries, a researcher for academic collaboration, or a corporate entity for corporate inquiries).
+    2. Subject Line: A brief subject line that clearly reflects the email's purpose.
+    3. Email Body: A 2-3 paragraph email body that sounds natural and relates to the category.
+
+    Here's an example email structure for the category ""Request for Research Project Collaboration"":
+    
+    Sender: student123@university.edu
+    Subject: Can I Join the 'AI for Healthcare Diagnostics' Project?
+    
+    Dear Professor,
+
+    I would like to know if I can join the 'AI for Healthcare Diagnostics' research project under your supervision.
+
+    Best regards,
+    [Student's Name]
+    
+    Make sure the emails you generate are realistic, follow the example structure, and provide proper details based on the category. The output should be formatted in CSV with the following columns: sender, subject, body, class.
+    
+    Generate at least 30 emails for this category.
+    "
+"
+    You are a powerful language model tasked with generating realistic emails for various categories. The emails will be used to simulate common inquiries received by a university Head of Department (HOD). These emails fall into three classes: ""Student Inquiry,"" ""Academic Collaboration Inquiry,"" and ""Corporate Inquiry."" You need to generate emails for the class ""Student Inquiry"" in the category ""Request for Access to Study Materials"".
+    
+    For this class and category, generate 10 emails. Each email must have a:
+    1. Sender Email Address: A realistic email address matching the type of inquiry (e.g., a student for student inquiries, a researcher for academic collaboration, or a corporate entity for corporate inquiries).
+    2. Subject Line: A brief subject line that clearly reflects the email's purpose.
+    3. Email Body: A 2-3 paragraph email body that sounds natural and relates to the category.
+
+    Here's an example email structure for the category ""Request for Access to Study Materials"":
+    
+    Sender: student123@university.edu
+    Subject: Can You Share the Reading Material for 'Week 1' of 'Advanced ML'?
+    
+    Dear Professor,
+
+    Could you please share the reading materials for the first week of 'Advanced Machine Learning'?
+
+    Best regards,
+    [Student's Name]
+    
+    Make sure the emails you generate are realistic, follow the example structure, and provide proper details based on the category. The output should be formatted in CSV with the following columns: sender, subject, body, class.
+    
+    Generate at least 30 emails for this category.
+    "
+"
+    You are a powerful language model tasked with generating realistic emails for various categories. The emails will be used to simulate common inquiries received by a university Head of Department (HOD). These emails fall into three classes: ""Student Inquiry,"" ""Academic Collaboration Inquiry,"" and ""Corporate Inquiry."" You need to generate emails for the class ""Academic Collaboration Inquiry"" in the category ""Research Collaboration Proposal"".
+    
+    For this class and category, generate 10 emails. Each email must have a:
+    1. Sender Email Address: A realistic email address matching the type of inquiry (e.g., a student for student inquiries, a researcher for academic collaboration, or a corporate entity for corporate inquiries).
+    2. Subject Line: A brief subject line that clearly reflects the email's purpose.
+    3. Email Body: A 2-3 paragraph email body that sounds natural and relates to the category.
+
+    Here's an example email structure for the category ""Research Collaboration Proposal"":
+    
+    Sender: student123@university.edu
+    Subject: Collaboration Proposal for AI Research
+    
+    Dear Professor,
+
+    I would like to propose a collaboration on your 'AI for Healthcare Diagnostics' project. Could we discuss potential areas where my team could contribute?
+
+    Best regards,
+    [Student's Name]
+    
+    Make sure the emails you generate are realistic, follow the example structure, and provide proper details based on the category. The output should be formatted in CSV with the following columns: sender, subject, body, class.
+    
+    Generate at least 30 emails for this category.
+    "
+"
+    You are a powerful language model tasked with generating realistic emails for various categories. The emails will be used to simulate common inquiries received by a university Head of Department (HOD). These emails fall into three classes: ""Student Inquiry,"" ""Academic Collaboration Inquiry,"" and ""Corporate Inquiry."" You need to generate emails for the class ""Academic Collaboration Inquiry"" in the category ""Access to Shared Research Data"".
+    
+    For this class and category, generate 10 emails. Each email must have a:
+    1. Sender Email Address: A realistic email address matching the type of inquiry (e.g., a student for student inquiries, a researcher for academic collaboration, or a corporate entity for corporate inquiries).
+    2. Subject Line: A brief subject line that clearly reflects the email's purpose.
+    3. Email Body: A 2-3 paragraph email body that sounds natural and relates to the category.
+
+    Here's an example email structure for the category ""Access to Shared Research Data"":
+    
+    Sender: student123@university.edu
+    Subject: Request for Access to Heart Disease Diagnostic Data
+    
+    Dear Professor,
+
+    Could you please provide access to the heart disease diagnostic dataset for your healthcare research? I am interested in conducting some comparative studies.
+
+    Best regards,
+    [Student's Name]
+    
+    Make sure the emails you generate are realistic, follow the example structure, and provide proper details based on the category. The output should be formatted in CSV with the following columns: sender, subject, body, class.
+    
+    Generate at least 30 emails for this category.
+    "
+"
+    You are a powerful language model tasked with generating realistic emails for various categories. The emails will be used to simulate common inquiries received by a university Head of Department (HOD). These emails fall into three classes: ""Student Inquiry,"" ""Academic Collaboration Inquiry,"" and ""Corporate Inquiry."" You need to generate emails for the class ""Academic Collaboration Inquiry"" in the category ""Request for Joint Grant Submission"".
+    
+    For this class and category, generate 10 emails. Each email must have a:
+    1. Sender Email Address: A realistic email address matching the type of inquiry (e.g., a student for student inquiries, a researcher for academic collaboration, or a corporate entity for corporate inquiries).
+    2. Subject Line: A brief subject line that clearly reflects the email's purpose.
+    3. Email Body: A 2-3 paragraph email body that sounds natural and relates to the category.
+
+    Here's an example email structure for the category ""Request for Joint Grant Submission"":
+    
+    Sender: student123@university.edu
+    Subject: Joint Grant Proposal for AI in Autonomous Driving
+    
+    Dear Professor,
+
+    I am writing to inquire if you'd be interested in submitting a joint research grant proposal on autonomous driving AI.
+
+    Best regards,
+    [Student's Name]
+    
+    Make sure the emails you generate are realistic, follow the example structure, and provide proper details based on the category. The output should be formatted in CSV with the following columns: sender, subject, body, class.
+    
+    Generate at least 30 emails for this category.
+    "
+"
+    You are a powerful language model tasked with generating realistic emails for various categories. The emails will be used to simulate common inquiries received by a university Head of Department (HOD). These emails fall into three classes: ""Student Inquiry,"" ""Academic Collaboration Inquiry,"" and ""Corporate Inquiry."" You need to generate emails for the class ""Academic Collaboration Inquiry"" in the category ""Paper Co-authorship Request"".
+    
+    For this class and category, generate 10 emails. Each email must have a:
+    1. Sender Email Address: A realistic email address matching the type of inquiry (e.g., a student for student inquiries, a researcher for academic collaboration, or a corporate entity for corporate inquiries).
+    2. Subject Line: A brief subject line that clearly reflects the email's purpose.
+    3. Email Body: A 2-3 paragraph email body that sounds natural and relates to the category.
+
+    Here's an example email structure for the category ""Paper Co-authorship Request"":
+    
+    Sender: student123@university.edu
+    Subject: Proposal for Co-authoring a Paper on 'Explainable AI'
+    
+    Dear Professor,
+
+    I would like to propose that we co-author a research paper on 'Explainable AI' and its applications in healthcare.
+
+    Best regards,
+    [Student's Name]
+    
+    Make sure the emails you generate are realistic, follow the example structure, and provide proper details based on the category. The output should be formatted in CSV with the following columns: sender, subject, body, class.
+    
+    Generate at least 30 emails for this category.
+    "
+"
+    You are a powerful language model tasked with generating realistic emails for various categories. The emails will be used to simulate common inquiries received by a university Head of Department (HOD). These emails fall into three classes: ""Student Inquiry,"" ""Academic Collaboration Inquiry,"" and ""Corporate Inquiry."" You need to generate emails for the class ""Academic Collaboration Inquiry"" in the category ""Invitation to Present at Conference"".
+    
+    For this class and category, generate 10 emails. Each email must have a:
+    1. Sender Email Address: A realistic email address matching the type of inquiry (e.g., a student for student inquiries, a researcher for academic collaboration, or a corporate entity for corporate inquiries).
+    2. Subject Line: A brief subject line that clearly reflects the email's purpose.
+    3. Email Body: A 2-3 paragraph email body that sounds natural and relates to the category.
+
+    Here's an example email structure for the category ""Invitation to Present at Conference"":
+    
+    Sender: student123@university.edu
+    Subject: Invitation to Present Research on Climate Prediction
+    
+    Dear Professor,
+
+    We would like to invite you to present your research on climate change prediction models at our upcoming AI symposium.
+
+    Best regards,
+    [Student's Name]
+    
+    Make sure the emails you generate are realistic, follow the example structure, and provide proper details based on the category. The output should be formatted in CSV with the following columns: sender, subject, body, class.
+    
+    Generate at least 30 emails for this category.
+    "
+"
+    You are a powerful language model tasked with generating realistic emails for various categories. The emails will be used to simulate common inquiries received by a university Head of Department (HOD). These emails fall into three classes: ""Student Inquiry,"" ""Academic Collaboration Inquiry,"" and ""Corporate Inquiry."" You need to generate emails for the class ""Academic Collaboration Inquiry"" in the category ""Request for Research Tool Sharing"".
+    
+    For this class and category, generate 10 emails. Each email must have a:
+    1. Sender Email Address: A realistic email address matching the type of inquiry (e.g., a student for student inquiries, a researcher for academic collaboration, or a corporate entity for corporate inquiries).
+    2. Subject Line: A brief subject line that clearly reflects the email's purpose.
+    3. Email Body: A 2-3 paragraph email body that sounds natural and relates to the category.
+
+    Here's an example email structure for the category ""Request for Research Tool Sharing"":
+    
+    Sender: student123@university.edu
+    Subject: Request for TensorFlow Code for Autonomous Vehicles
+    
+    Dear Professor,
+
+    Could you share the TensorFlow code used for your reinforcement learning model for autonomous vehicle navigation?
+
+    Best regards,
+    [Student's Name]
+    
+    Make sure the emails you generate are realistic, follow the example structure, and provide proper details based on the category. The output should be formatted in CSV with the following columns: sender, subject, body, class.
+    
+    Generate at least 30 emails for this category.
+    "
+"
+    You are a powerful language model tasked with generating realistic emails for various categories. The emails will be used to simulate common inquiries received by a university Head of Department (HOD). These emails fall into three classes: ""Student Inquiry,"" ""Academic Collaboration Inquiry,"" and ""Corporate Inquiry."" You need to generate emails for the class ""Academic Collaboration Inquiry"" in the category ""Invitations for Workshops and Seminars"".
+    
+    For this class and category, generate 10 emails. Each email must have a:
+    1. Sender Email Address: A realistic email address matching the type of inquiry (e.g., a student for student inquiries, a researcher for academic collaboration, or a corporate entity for corporate inquiries).
+    2. Subject Line: A brief subject line that clearly reflects the email's purpose.
+    3. Email Body: A 2-3 paragraph email body that sounds natural and relates to the category.
+
+    Here's an example email structure for the category ""Invitations for Workshops and Seminars"":
+    
+    Sender: student123@university.edu
+    Subject: Invitation to Lead a Workshop on Deep Learning
+    
+    Dear Professor,
+
+    We would like to invite you to lead a workshop on deep learning architectures at our upcoming research seminar.
+
+    Best regards,
+    [Student's Name]
+    
+    Make sure the emails you generate are realistic, follow the example structure, and provide proper details based on the category. The output should be formatted in CSV with the following columns: sender, subject, body, class.
+    
+    Generate at least 30 emails for this category.
+    "
+"
+    You are a powerful language model tasked with generating realistic emails for various categories. The emails will be used to simulate common inquiries received by a university Head of Department (HOD). These emails fall into three classes: ""Student Inquiry,"" ""Academic Collaboration Inquiry,"" and ""Corporate Inquiry."" You need to generate emails for the class ""Academic Collaboration Inquiry"" in the category ""Data Sharing Agreement Request"".
+    
+    For this class and category, generate 10 emails. Each email must have a:
+    1. Sender Email Address: A realistic email address matching the type of inquiry (e.g., a student for student inquiries, a researcher for academic collaboration, or a corporate entity for corporate inquiries).
+    2. Subject Line: A brief subject line that clearly reflects the email's purpose.
+    3. Email Body: A 2-3 paragraph email body that sounds natural and relates to the category.
+
+    Here's an example email structure for the category ""Data Sharing Agreement Request"":
+    
+    Sender: student123@university.edu
+    Subject: Data Sharing Agreement for Autonomous Vehicle Data
+    
+    Dear Professor,
+
+    Can we arrange a data-sharing agreement for the autonomous vehicle data from your recent research?
+
+    Best regards,
+    [Student's Name]
+    
+    Make sure the emails you generate are realistic, follow the example structure, and provide proper details based on the category. The output should be formatted in CSV with the following columns: sender, subject, body, class.
+    
+    Generate at least 30 emails for this category.
+    "
+"
+    You are a powerful language model tasked with generating realistic emails for various categories. The emails will be used to simulate common inquiries received by a university Head of Department (HOD). These emails fall into three classes: ""Student Inquiry,"" ""Academic Collaboration Inquiry,"" and ""Corporate Inquiry."" You need to generate emails for the class ""Academic Collaboration Inquiry"" in the category ""Inquiry on Ethics Submission"".
+    
+    For this class and category, generate 10 emails. Each email must have a:
+    1. Sender Email Address: A realistic email address matching the type of inquiry (e.g., a student for student inquiries, a researcher for academic collaboration, or a corporate entity for corporate inquiries).
+    2. Subject Line: A brief subject line that clearly reflects the email's purpose.
+    3. Email Body: A 2-3 paragraph email body that sounds natural and relates to the category.
+
+    Here's an example email structure for the category ""Inquiry on Ethics Submission"":
+    
+    Sender: student123@university.edu
+    Subject: Request for Help with IRB Submission
+    
+    Dear Professor,
+
+    Could you assist us with the preparation of the IRB submission for our collaborative AI healthcare research?
+
+    Best regards,
+    [Student's Name]
+    
+    Make sure the emails you generate are realistic, follow the example structure, and provide proper details based on the category. The output should be formatted in CSV with the following columns: sender, subject, body, class.
+    
+    Generate at least 30 emails for this category.
+    "
+"
+    You are a powerful language model tasked with generating realistic emails for various categories. The emails will be used to simulate common inquiries received by a university Head of Department (HOD). These emails fall into three classes: ""Student Inquiry,"" ""Academic Collaboration Inquiry,"" and ""Corporate Inquiry."" You need to generate emails for the class ""Academic Collaboration Inquiry"" in the category ""Proposal for Joint Review Paper"".
+    
+    For this class and category, generate 10 emails. Each email must have a:
+    1. Sender Email Address: A realistic email address matching the type of inquiry (e.g., a student for student inquiries, a researcher for academic collaboration, or a corporate entity for corporate inquiries).
+    2. Subject Line: A brief subject line that clearly reflects the email's purpose.
+    3. Email Body: A 2-3 paragraph email body that sounds natural and relates to the category.
+
+    Here's an example email structure for the category ""Proposal for Joint Review Paper"":
+    
+    Sender: student123@university.edu
+    Subject: Proposal to Co-author a Review Paper on AI
+    
+    Dear Professor,
+
+    Would you be interested in co-authoring a review paper on AI applications in climate simulations?
+
+    Best regards,
+    [Student's Name]
+    
+    Make sure the emails you generate are realistic, follow the example structure, and provide proper details based on the category. The output should be formatted in CSV with the following columns: sender, subject, body, class.
+    
+    Generate at least 30 emails for this category.
+    "
+"
+    You are a powerful language model tasked with generating realistic emails for various categories. The emails will be used to simulate common inquiries received by a university Head of Department (HOD). These emails fall into three classes: ""Student Inquiry,"" ""Academic Collaboration Inquiry,"" and ""Corporate Inquiry."" You need to generate emails for the class ""Corporate Inquiry"" in the category ""Internship Opportunities"".
+    
+    For this class and category, generate 10 emails. Each email must have a:
+    1. Sender Email Address: A realistic email address matching the type of inquiry (e.g., a student for student inquiries, a researcher for academic collaboration, or a corporate entity for corporate inquiries).
+    2. Subject Line: A brief subject line that clearly reflects the email's purpose.
+    3. Email Body: A 2-3 paragraph email body that sounds natural and relates to the category.
+
+    Here's an example email structure for the category ""Internship Opportunities"":
+    
+    Sender: student123@university.edu
+    Subject: AI Internship Opportunities for Students
+    
+    Dear Professor,
+
+    We are looking for AI interns for summer positions in our development team. Could we discuss opportunities for collaboration with your students?
+
+    Best regards,
+    [Student's Name]
+    
+    Make sure the emails you generate are realistic, follow the example structure, and provide proper details based on the category. The output should be formatted in CSV with the following columns: sender, subject, body, class.
+    
+    Generate at least 30 emails for this category.
+    "
+"
+    You are a powerful language model tasked with generating realistic emails for various categories. The emails will be used to simulate common inquiries received by a university Head of Department (HOD). These emails fall into three classes: ""Student Inquiry,"" ""Academic Collaboration Inquiry,"" and ""Corporate Inquiry."" You need to generate emails for the class ""Corporate Inquiry"" in the category ""Proposal for Partnership"".
+    
+    For this class and category, generate 10 emails. Each email must have a:
+    1. Sender Email Address: A realistic email address matching the type of inquiry (e.g., a student for student inquiries, a researcher for academic collaboration, or a corporate entity for corporate inquiries).
+    2. Subject Line: A brief subject line that clearly reflects the email's purpose.
+    3. Email Body: A 2-3 paragraph email body that sounds natural and relates to the category.
+
+    Here's an example email structure for the category ""Proposal for Partnership"":
+    
+    Sender: student123@university.edu
+    Subject: Proposal for Partnership on AI-Driven Healthcare
+    
+    Dear Professor,
+
+    We would like to propose a strategic partnership with your university to develop AI-driven healthcare solutions.
+
+    Best regards,
+    [Student's Name]
+    
+    Make sure the emails you generate are realistic, follow the example structure, and provide proper details based on the category. The output should be formatted in CSV with the following columns: sender, subject, body, class.
+    
+    Generate at least 30 emails for this category.
+    "
+"
+    You are a powerful language model tasked with generating realistic emails for various categories. The emails will be used to simulate common inquiries received by a university Head of Department (HOD). These emails fall into three classes: ""Student Inquiry,"" ""Academic Collaboration Inquiry,"" and ""Corporate Inquiry."" You need to generate emails for the class ""Corporate Inquiry"" in the category ""Request for Research Sponsorship"".
+    
+    For this class and category, generate 10 emails. Each email must have a:
+    1. Sender Email Address: A realistic email address matching the type of inquiry (e.g., a student for student inquiries, a researcher for academic collaboration, or a corporate entity for corporate inquiries).
+    2. Subject Line: A brief subject line that clearly reflects the email's purpose.
+    3. Email Body: A 2-3 paragraph email body that sounds natural and relates to the category.
+
+    Here's an example email structure for the category ""Request for Research Sponsorship"":
+    
+    Sender: student123@university.edu
+    Subject: Sponsorship Request for Autonomous Driving Research
+    
+    Dear Professor,
+
+    We are interested in sponsoring your ongoing research in autonomous vehicle navigation. Could we discuss further?
+
+    Best regards,
+    [Student's Name]
+    
+    Make sure the emails you generate are realistic, follow the example structure, and provide proper details based on the category. The output should be formatted in CSV with the following columns: sender, subject, body, class.
+    
+    Generate at least 30 emails for this category.
+    "
+"
+    You are a powerful language model tasked with generating realistic emails for various categories. The emails will be used to simulate common inquiries received by a university Head of Department (HOD). These emails fall into three classes: ""Student Inquiry,"" ""Academic Collaboration Inquiry,"" and ""Corporate Inquiry."" You need to generate emails for the class ""Corporate Inquiry"" in the category ""Recruitment for AI Roles"".
+    
+    For this class and category, generate 10 emails. Each email must have a:
+    1. Sender Email Address: A realistic email address matching the type of inquiry (e.g., a student for student inquiries, a researcher for academic collaboration, or a corporate entity for corporate inquiries).
+    2. Subject Line: A brief subject line that clearly reflects the email's purpose.
+    3. Email Body: A 2-3 paragraph email body that sounds natural and relates to the category.
+
+    Here's an example email structure for the category ""Recruitment for AI Roles"":
+    
+    Sender: student123@university.edu
+    Subject: Looking to Recruit Graduates for AI Roles
+    
+    Dear Professor,
+
+    Our company is currently hiring for AI and machine learning roles. We would like to recruit some of your recent graduates.
+
+    Best regards,
+    [Student's Name]
+    
+    Make sure the emails you generate are realistic, follow the example structure, and provide proper details based on the category. The output should be formatted in CSV with the following columns: sender, subject, body, class.
+    
+    Generate at least 30 emails for this category.
+    "
+"
+    You are a powerful language model tasked with generating realistic emails for various categories. The emails will be used to simulate common inquiries received by a university Head of Department (HOD). These emails fall into three classes: ""Student Inquiry,"" ""Academic Collaboration Inquiry,"" and ""Corporate Inquiry."" You need to generate emails for the class ""Corporate Inquiry"" in the category ""Corporate Training Requests"".
+    
+    For this class and category, generate 10 emails. Each email must have a:
+    1. Sender Email Address: A realistic email address matching the type of inquiry (e.g., a student for student inquiries, a researcher for academic collaboration, or a corporate entity for corporate inquiries).
+    2. Subject Line: A brief subject line that clearly reflects the email's purpose.
+    3. Email Body: A 2-3 paragraph email body that sounds natural and relates to the category.
+
+    Here's an example email structure for the category ""Corporate Training Requests"":
+    
+    Sender: student123@university.edu
+    Subject: Request for AI Training Program for Employees
+    
+    Dear Professor,
+
+    Could you offer a custom AI training program for our employees focused on machine learning applications?
+
+    Best regards,
+    [Student's Name]
+    
+    Make sure the emails you generate are realistic, follow the example structure, and provide proper details based on the category. The output should be formatted in CSV with the following columns: sender, subject, body, class.
+    
+    Generate at least 30 emails for this category.
+    "
+"
+    You are a powerful language model tasked with generating realistic emails for various categories. The emails will be used to simulate common inquiries received by a university Head of Department (HOD). These emails fall into three classes: ""Student Inquiry,"" ""Academic Collaboration Inquiry,"" and ""Corporate Inquiry."" You need to generate emails for the class ""Corporate Inquiry"" in the category ""Product Licensing Inquiries"".
+    
+    For this class and category, generate 10 emails. Each email must have a:
+    1. Sender Email Address: A realistic email address matching the type of inquiry (e.g., a student for student inquiries, a researcher for academic collaboration, or a corporate entity for corporate inquiries).
+    2. Subject Line: A brief subject line that clearly reflects the email's purpose.
+    3. Email Body: A 2-3 paragraph email body that sounds natural and relates to the category.
+
+    Here's an example email structure for the category ""Product Licensing Inquiries"":
+    
+    Sender: student123@university.edu
+    Subject: Inquiry About Licensing Your AI Diagnostic Model
+    
+    Dear Professor,
+
+    We are interested in licensing the AI diagnostic model you developed. Could you provide more details?
+
+    Best regards,
+    [Student's Name]
+    
+    Make sure the emails you generate are realistic, follow the example structure, and provide proper details based on the category. The output should be formatted in CSV with the following columns: sender, subject, body, class.
+    
+    Generate at least 30 emails for this category.
+    "
+"
+    You are a powerful language model tasked with generating realistic emails for various categories. The emails will be used to simulate common inquiries received by a university Head of Department (HOD). These emails fall into three classes: ""Student Inquiry,"" ""Academic Collaboration Inquiry,"" and ""Corporate Inquiry."" You need to generate emails for the class ""Corporate Inquiry"" in the category ""Consulting Service Requests"".
+    
+    For this class and category, generate 10 emails. Each email must have a:
+    1. Sender Email Address: A realistic email address matching the type of inquiry (e.g., a student for student inquiries, a researcher for academic collaboration, or a corporate entity for corporate inquiries).
+    2. Subject Line: A brief subject line that clearly reflects the email's purpose.
+    3. Email Body: A 2-3 paragraph email body that sounds natural and relates to the category.
+
+    Here's an example email structure for the category ""Consulting Service Requests"":
+    
+    Sender: student123@university.edu
+    Subject: Request for Consulting on AI Model Development
+    
+    Dear Professor,
+
+    Would you be available to consult on an AI model for predictive maintenance in autonomous systems?
+
+    Best regards,
+    [Student's Name]
+    
+    Make sure the emails you generate are realistic, follow the example structure, and provide proper details based on the category. The output should be formatted in CSV with the following columns: sender, subject, body, class.
+    
+    Generate at least 30 emails for this category.
+    "
+"
+    You are a powerful language model tasked with generating realistic emails for various categories. The emails will be used to simulate common inquiries received by a university Head of Department (HOD). These emails fall into three classes: ""Student Inquiry,"" ""Academic Collaboration Inquiry,"" and ""Corporate Inquiry."" You need to generate emails for the class ""Corporate Inquiry"" in the category ""Confidential Partnership Discussions"".
+    
+    For this class and category, generate 10 emails. Each email must have a:
+    1. Sender Email Address: A realistic email address matching the type of inquiry (e.g., a student for student inquiries, a researcher for academic collaboration, or a corporate entity for corporate inquiries).
+    2. Subject Line: A brief subject line that clearly reflects the email's purpose.
+    3. Email Body: A 2-3 paragraph email body that sounds natural and relates to the category.
+
+    Here's an example email structure for the category ""Confidential Partnership Discussions"":
+    
+    Sender: student123@university.edu
+    Subject: Confidential Terms Discussion for AI Research
+    
+    Dear Professor,
+
+    We would like to discuss the confidential terms of our AI research partnership on healthcare diagnostics.
+
+    Best regards,
+    [Student's Name]
+    
+    Make sure the emails you generate are realistic, follow the example structure, and provide proper details based on the category. The output should be formatted in CSV with the following columns: sender, subject, body, class.
+    
+    Generate at least 30 emails for this category.
+    "
+"
+    You are a powerful language model tasked with generating realistic emails for various categories. The emails will be used to simulate common inquiries received by a university Head of Department (HOD). These emails fall into three classes: ""Student Inquiry,"" ""Academic Collaboration Inquiry,"" and ""Corporate Inquiry."" You need to generate emails for the class ""Corporate Inquiry"" in the category ""Request for Guest Lectures"".
+    
+    For this class and category, generate 10 emails. Each email must have a:
+    1. Sender Email Address: A realistic email address matching the type of inquiry (e.g., a student for student inquiries, a researcher for academic collaboration, or a corporate entity for corporate inquiries).
+    2. Subject Line: A brief subject line that clearly reflects the email's purpose.
+    3. Email Body: A 2-3 paragraph email body that sounds natural and relates to the category.
+
+    Here's an example email structure for the category ""Request for Guest Lectures"":
+    
+    Sender: student123@university.edu
+    Subject: Invitation to Provide a Guest Lecture on AI
+    
+    Dear Professor,
+
+    We would like to invite you to deliver a guest lecture at our upcoming corporate AI conference.
+
+    Best regards,
+    [Student's Name]
+    
+    Make sure the emails you generate are realistic, follow the example structure, and provide proper details based on the category. The output should be formatted in CSV with the following columns: sender, subject, body, class.
+    
+    Generate at least 30 emails for this category.
+    "
+"
+    You are a powerful language model tasked with generating realistic emails for various categories. The emails will be used to simulate common inquiries received by a university Head of Department (HOD). These emails fall into three classes: ""Student Inquiry,"" ""Academic Collaboration Inquiry,"" and ""Corporate Inquiry."" You need to generate emails for the class ""Corporate Inquiry"" in the category ""Feedback on Corporate Research"".
+    
+    For this class and category, generate 10 emails. Each email must have a:
+    1. Sender Email Address: A realistic email address matching the type of inquiry (e.g., a student for student inquiries, a researcher for academic collaboration, or a corporate entity for corporate inquiries).
+    2. Subject Line: A brief subject line that clearly reflects the email's purpose.
+    3. Email Body: A 2-3 paragraph email body that sounds natural and relates to the category.
+
+    Here's an example email structure for the category ""Feedback on Corporate Research"":
+    
+    Sender: student123@university.edu
+    Subject: Request for Feedback on Our AI Healthcare Product
+    
+    Dear Professor,
+
+    Could you provide feedback on the AI product we’ve developed for healthcare diagnostics? We would value your input.
+
+    Best regards,
+    [Student's Name]
+    
+    Make sure the emails you generate are realistic, follow the example structure, and provide proper details based on the category. The output should be formatted in CSV with the following columns: sender, subject, body, class.
+    
+    Generate at least 30 emails for this category.
+    "
