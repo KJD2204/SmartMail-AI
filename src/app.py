@@ -19,7 +19,7 @@ from langchain.embeddings import HuggingFaceEmbeddings
 from transformers import pipeline, AutoTokenizer, AutoModelForSequenceClassification
 
 groq_chat = ChatGroq(
-            groq_api_key="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", 
+            groq_api_key="", 
             model_name="llama-3.1-70b-versatile",
     )
 client1 = chromadb.PersistentClient(path=r"../data/chroma_db")
@@ -43,9 +43,8 @@ def create_email_string(subject, body):
     return f"Subject: {subject}.\n{body}"
 def llama3_classify_and_respond(email, relevant_documents):
     system_prompt2 = (
-            "You are an AI model tasked with two responsibilities:"
-            "1. **Detect Sensitive Information**: Identify if the email contains any sensitive information like **confidential partnerships**, **legal matters**, etc. "
-            "If such sensitive content is found, your response should be: 'Email will be forwarded to the HOD.'"
+            "You are an AI model tasked with following instructions:"
+            "1. **Detect Sensitive Information**: Identify if the email contains any sensitive information like **confidential partnerships**, **legal matters**, etc. If such sensitive content is found, your response should be: 'Email will be forwarded to the HOD.'"
             "2. **Drafting Responses**: If no sensitive information is found, use the provided **context** (relevant documents) to help you draft an appropriate response to the email."
             "3. Your response should either be: 'Email will be forwarded to the HOD.' or draft a response based on the email and relevant documents, providing the necessary information."
             "4. Dont mention anything in the response that is not present in the email or relevant documents."
