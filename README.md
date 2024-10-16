@@ -1,8 +1,8 @@
-# SmartSense - AI-Powered Email Classification and Response System
+# SmartMail AI - AI-Powered Email Classification and Response System
 
 ## Overview
 
-**SmartSense** is an AI-based solution for managing email classification and response generation for university departments, particularly for Heads of Departments (HODs). This system automates the classification of emails and generates responses based on document repository content, leveraging **fine-tuned BERT**, **Chroma DB** for document retrieval, and **Llama 3** for detecting sensitive information and generating responses.
+**SmartMail AI** is an AI-based solution for managing email classification and response generation for university departments, particularly for Heads of Departments (HODs). This system automates the classification of emails and generates responses based on document repository content, leveraging **fine-tuned BERT**, **Chroma DB** for document retrieval, and **Llama 3** for detecting sensitive information and generating responses.
 
 ---
 
