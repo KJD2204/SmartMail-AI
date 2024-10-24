@@ -151,5 +151,3 @@ Once the app is running, you can input an email subject and body, and the system
 This project is licensed under the MIT License.
 
 ---
-
-This README explains the entire process of building the SmartSense application, from data generation, model fine-tuning, and document retrieval to email classification and response generation using Llama 3. Let me know if you need any adjustments!
